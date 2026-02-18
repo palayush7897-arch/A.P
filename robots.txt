@@ -3,4 +3,5 @@ Disallow: /assets/
 Disallow: /temp/
 Allow: /
 
-Sitemap: https://ayushportfolio.com/sitemap.xml
+
+https://akshatportfolio.com/
